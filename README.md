@@ -1,2 +1,3 @@
 # automl
-who needs knowledge when u have sklearn
+
+Automated model selection via [scikit-learn](https://scikit-learn.org/stable/)
